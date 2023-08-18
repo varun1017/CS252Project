@@ -1,0 +1,16 @@
+another.txt
+bar.pdf
+ddlolympics.sql
+f1.txt
+file.cpp
+foo.png
+op.txt
+oppk.txt
+ra.txt
+rafinal
+random.py
+run.sh
+temp.c
+temp2.cpp
+connected to 1 with unique-ID 2394 on port 5040
+connected to 4 with unique-ID 9399 on port 8040

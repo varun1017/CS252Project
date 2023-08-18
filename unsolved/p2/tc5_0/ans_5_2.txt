@@ -1,0 +1,15 @@
+another.txt
+ddlolympics.sql
+f1.txt
+file.cpp
+foo.png
+lab4db.ddl
+o2
+op.txt
+opda.txt
+q1.cpp
+queries
+rafinal
+random.py
+run.sh
+temp.c
